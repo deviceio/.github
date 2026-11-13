@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://tvlabs.ai">
+  <a href="device.io">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="../assets/tvlabs_dark.png">
       <source media="(prefers-color-scheme: light)" srcset="../assets/tvlabs_light.png">
-      <img alt="TV Labs Logo" width="400">
+      <img alt="Device.io Logo" width="400">
     </picture>
   </a>
 </p>
 
-# TV Labs
+# Device.io
 
-TV Labs builds tools that solve real problems in Smart TV app development and testing. Our cloud platform gives you remote access to actual devices, eliminating hardware procurement headaches while supporting vision and appium-baseed test automation. We're focused on practical solutions that reduce the frustration of cross-platform TV app development.
+Build and test for every screen. Real devices, in the cloud.
 
 ### OSS Projects
 
