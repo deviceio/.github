@@ -1,8 +1,8 @@
 <p align="center">
   <a href="device.io">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../assets/tvlabs_dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="../assets/tvlabs_light.png">
+      <source media="(prefers-color-scheme: dark)" srcset="../assets/deviceio_dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="../assets/deviceio_light.png">
       <img alt="Device.io Logo" width="400">
     </picture>
   </a>
